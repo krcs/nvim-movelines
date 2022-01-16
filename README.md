@@ -3,7 +3,7 @@
 Neovim lua plugin for moving lines in normal and visual mode.
 
 For vim-script version see:
-- https://github.com/krcs/vim-movelines.git
+https://github.com/krcs/vim-movelines.git
 
 ### Installation
 
