@@ -1,3 +1,8 @@
+-- Neovim lua plugin for moving lines in normal and visual mode.
+-- Maintainer: Krzysztof Cieslak <https://github.com/krcs/nvim-movelines.git>
+-- License: VIM
+-- :h license
+
 function GetDirection(direction)
     local result = ""
     if string.len(direction) == 0 then
